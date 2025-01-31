@@ -16,8 +16,7 @@ A simple and elegant **Quote of the Day** web app that displays daily inspiratio
 ### 📥 **Installation**  
 1. Clone the repository:  
    git clone https://github.com/SayanBera1/Quotely.git
-   cd quotely
-  
+
 2. Open **index.html** in your browser.  
 
 ### 🎯 **Usage**  
